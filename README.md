@@ -46,7 +46,7 @@ Essa é uma plataforma de kanban simples. Com esse projeto, foram praticados div
 
 *1.* Clone o repositório, executando o seguinte comando no terminal:
 ```
-git clone https://github.com/Gian-Lucas/kanban.git
+git clone https://github.com/gkgiann/kanban.git
 ```
 
 *2.* Navegue até o diretório/pasta do projeto e execute os seguintes comandos:
@@ -62,10 +62,10 @@ npm run dev
 <table>
   <tr>
     <td align="center">
-      <a href="https://github.com/gian-lucas">
+      <a href="https://github.com/gkgiann">
         <img src="https://avatars.githubusercontent.com/u/67169105?v=4" width="100px;" alt="Foto de Gian Lucas no GitHub"/><br>
         <sub>
-          <b>gian-lucas</b>
+          <b>gkgiann</b>
         </sub>
       </a>
     </td>
